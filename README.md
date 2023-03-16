@@ -3,7 +3,7 @@ Multi Character Feature for QB-Core Framework 🧑‍🤝‍🧑
 
 Added support for setting default number of characters per player per Rockstar license
 
-License
+```License
 QBCore Framework
 Copyright (C) 2021 Joshua Eger
 
@@ -18,7 +18,7 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
-along with this program.  If not, see <https://www.gnu.org/licenses/>
+along with this program.  If not, see <https://www.gnu.org/licenses/>```
 
 
 Dependencies
