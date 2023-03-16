@@ -1,4 +1,7 @@
-qb-multicharacter
+Screenshots
+![multi](https://cdn.discordapp.com/attachments/1048622351232798790/1085791266849161256/FiveM_by_Cfx.re_-_Ninja_Official_Server_3_15_2023_3_57_21_PM.png)
+
+``qb-multicharacter
 Multi Character Feature for QB-Core Framework 🧑‍🤝‍🧑
 
 Added support for setting default number of characters per player per Rockstar license
