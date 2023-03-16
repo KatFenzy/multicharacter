@@ -1,7 +1,7 @@
 Screenshots
 ![multi](https://cdn.discordapp.com/attachments/1048622351232798790/1085791266849161256/FiveM_by_Cfx.re_-_Ninja_Official_Server_3_15_2023_3_57_21_PM.png)
 
-``qb-multicharacter
+```qb-multicharacter
 Multi Character Feature for QB-Core Framework 🧑‍🤝‍🧑
 
 Added support for setting default number of characters per player per Rockstar license
@@ -14,8 +14,6 @@ qb-apartments - For giving the player a apartment after creating a character.
 qb-clothing - For the character creation and saving outfits.
 qb-weathersync - For adjusting the weather while player is creating a character.
 
-Screenshots
-![multi](https://cdn.discordapp.com/attachments/1048622351232798790/1085791266849161256/FiveM_by_Cfx.re_-_Ninja_Official_Server_3_15_2023_3_57_21_PM.png)
 
 Features
 Ability to create up to 5 characters and delete any character.
